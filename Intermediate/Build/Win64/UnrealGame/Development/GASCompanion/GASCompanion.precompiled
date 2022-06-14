@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"Module.GASCompanion.cpp.obj",
+		"Module.GASCompanion.gen.1_of_4.cpp.obj",
+		"Module.GASCompanion.gen.2_of_4.cpp.obj",
+		"Module.GASCompanion.gen.3_of_4.cpp.obj",
+		"Module.GASCompanion.gen.4_of_4.cpp.obj"
+	]
+}
